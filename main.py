@@ -1,78 +1,58 @@
-import praw
-import urllib
-import moviepy.editor as mpe
 import json
 import random
-#dankvideos, memevideos
-r = praw.Reddit(client_id="Oez4fMric1z1uQ", client_secret="3-IOEjlgneiGBeNT02yeZ3TDLL1asw", user_agent="idk")
+import moviepy.editor as mpe
 
 
-def get_videos(subreddit, count, folder):
-
-    sub = r.subreddit(subreddit).hot(limit=count)
-    temp_dict = []
-    if folder != "":
-        folder = folder + "/"
-    for post in sub:
-        if post.is_video:
-            #print(post.media['reddit_video'])
-            vid_link = post.media['reddit_video']['fallback_url']
-            audio_link = f'{vid_link.split("_")[0]}_audio.mp4'
-            #print(audio_link)
-            #print(vid_link)
-
-            print(f'{folder}{post.title}.mp4')
-            try:
-                urllib.request.urlretrieve(vid_link, f'{folder}{post.title}.mp4')
-                urllib.request.urlretrieve(audio_link, f'{folder}{post.title}.mp3')
-                vid = mpe.VideoFileClip(f'{folder}{post.title}.mp4')
-                audio = mpe.AudioFileClip(f'{folder}{post.title}.mp3')
-                combined_vid = vid.set_audio(audio)
-                combined_vid.write_videofile(f'{folder}final {post.title}.mp4')
-                temp_dict.append({"video_title": f'{folder}final {post.title}.mp4',
-                                  "duration": post.media['reddit_video']["duration"],
-                                 "used": False})
-            except:
-                print("Exception at download")
-
+def renew_videos():
     with open("videos.json", "r") as json_file:
         data = json.load(json_file)
-        video_list = []
         for i in data["data"]:
-            video_list.append(i["video_title"])
-        for i in temp_dict:
-            #print(i["video_title"] in video_list)
-            if not i["video_title"] in video_list:
-                data["data"].insert(0,i)
-                data["total_duration"] += i["duration"]
+            i["used"] = False
 
     with open("videos.json", "w") as json_f:
         json.dump(data, json_f, indent=2)
 
-def combine_videos(length):
+
+def combine_videos(length, height):
     with open("videos.json", "r") as json_file:
         data = json.load(json_file)
         video_list = []
         clips = []
+        count = 0
         temp_length = length
         while temp_length > 0:
             temp = random.choice(data["data"])
             if not temp["used"]:
+                count +=1
                 print(data["data"].index(temp))
                 data["data"][data["data"].index(temp)]["used"] = True
-                clips.append(mpe.VideoFileClip(temp["video_title"]))
+                temp_clip = mpe.VideoFileClip(temp["video_title"])
+
+                temp_clip = temp_clip.resize(height=height)
+                print(F"*****NO MODIFICATION. DIMENSIONS {temp_clip.w}x{temp_clip.h}*****")
+                if (temp_clip.w % 2) != 0:
+                    test = temp_clip.w + 1
+                    print(test)
+                    test2 = int(temp_clip.w) +1
+                    print(test2)
+                    temp_clip = temp_clip.resize((test2, temp_clip.h))
+                    print(f"*****CLIP RESIZED. NEW DIMENSIONS {temp_clip.w}x{temp_clip.h}*****")
+                else:
+                    print(f"*****UNMODIFIED. DIMENSIONS {temp_clip.w}x{temp_clip.h}*****")
+                print(temp_clip.w)
+                clips.append(temp_clip)
                 video_list.append(temp["video_title"])
                 temp_length -= temp["duration"]
             else:
                 print("USED")
         print(video_list)
         print(length-temp_length)
-        final_video = mpe.concatenate_videoclips(clips, method='compose')
+        final_video = mpe.concatenate_videoclips(clips, method="compose")
         final_video.write_videofile(f"Final Video{data['videos']}.mp4")
         data['videos'] += 1
     with open("videos.json", "w") as json_f:
         json.dump(data, json_f, indent=2)
 
-
-get_videos("dankvideos", 100,"meme storage")
-combine_videos(120)
+#renew_videos()
+#get_reddit_videos("dankvideos", 500,"meme storage")
+combine_videos(600, 600)
