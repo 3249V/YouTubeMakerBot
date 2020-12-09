@@ -1,6 +1,10 @@
 import json
 import random
-import moviepy.editor as mpe
+#import moviepy.editor as mpe
+from moviepy.video.io.VideoFileClip import VideoFileClip
+from moviepy.video.compositing.concatenate import concatenate_videoclips
+from moviepy.video.fx.resize import resize
+import os
 
 
 def renew_videos():
@@ -11,6 +15,21 @@ def renew_videos():
 
     with open("videos.json", "w") as json_f:
         json.dump(data, json_f, indent=2)
+
+
+def clean_files(folder):
+    for i in os.listdir(folder):
+        if i[:5] != "final":
+            try:
+                os.remove(f'{folder}/{i}')
+            except FileNotFoundError as e:
+                print(e)
+    for i in os.listdir(folder):
+        if i[:5] == "final":
+            try:
+                os.rename(f'{folder}/{i}',f'{folder}/{i[6:]}')
+            except FileNotFoundError as e:
+                print(e)
 
 
 def combine_videos(length, height):
@@ -26,7 +45,7 @@ def combine_videos(length, height):
                 count +=1
                 print(data["data"].index(temp))
                 data["data"][data["data"].index(temp)]["used"] = True
-                temp_clip = mpe.VideoFileClip(temp["video_title"])
+                temp_clip = VideoFileClip(temp["video_title"])
 
                 temp_clip = temp_clip.resize(height=height)
                 print(F"*****NO MODIFICATION. DIMENSIONS {temp_clip.w}x{temp_clip.h}*****")
@@ -48,11 +67,11 @@ def combine_videos(length, height):
         print(video_list)
         print(length-temp_length)
         final_video = mpe.concatenate_videoclips(clips, method="compose")
-        final_video.write_videofile(f"Final Video{data['videos']}.mp4")
+        final_video.write_videofile(f"Final Video{data['videos']}.mp4", threads=8)
         data['videos'] += 1
     with open("videos.json", "w") as json_f:
         json.dump(data, json_f, indent=2)
-
-#renew_videos()
+#lean_files("meme storage")
+renew_videos()
 #get_reddit_videos("dankvideos", 500,"meme storage")
-combine_videos(600, 600)
+#combine_videos(600, 600)
