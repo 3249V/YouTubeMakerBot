@@ -1,16 +1,4885 @@
 {
-  "videos": 1,
-  "total_duration": 9481,
+  "videos": 0,
+  "total_duration": 19774,
+  "usable_duration": 9726,
+  "time_downloading": 4071.676200799993,
+  "average_download_time": 5.260563566925056,
+  "downloads": 774,
+  "titles": [
+    "Thailand commercial.",
+    "Welcome to the bread bank",
+    "After the schizophrenia pills take affect",
+    "No more pogchamp.",
+    "\ud83c\udf08\ud83d\ude97",
+    "Based"
+  ],
   "data": [
     {
-      "video_title": "meme storage/final Yee.mp4",
+      "video_title": "C:/Users/Public/Videos/final Based.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/4jh7d9ommv361",
+      "source": "reddit",
+      "score": 3712,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Public/Videos/final \ud83c\udf08\ud83d\ude97.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/l2jtc1bps1461",
+      "source": "reddit",
+      "score": 73,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Public/Videos/final No more pogchamp..mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/nohnnzhy40461",
+      "source": "reddit",
+      "score": 205,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Connor/OneDrive/Desktop/memes/Bot folder/final \ud83c\udf08\ud83d\ude97.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/l2jtc1bps1461",
+      "source": "reddit",
+      "score": 69,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Connor/OneDrive/Desktop/memes/Bot folder/final Based.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/4jh7d9ommv361",
+      "source": "reddit",
+      "score": 3700,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Connor/OneDrive/Desktop/memes/Bot folder/final No more pogchamp..mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/nohnnzhy40461",
+      "source": "reddit",
+      "score": 185,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Connor/OneDrive/Desktop/memes/Bot folder/final After the schizophrenia pills take affect.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/806whi0k4y361",
+      "source": "reddit",
+      "score": 695,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Connor/OneDrive/Desktop/memes/Bot folder/final Thailand commercial..mp4",
+      "duration": 30,
+      "used": false,
+      "url": "https://v.redd.it/a322sz3ko2461",
+      "source": "reddit",
+      "score": 84,
+      "tags": []
+    },
+    {
+      "video_title": "C:/Users/Connor/OneDrive/Desktop/memes/Bot folder/final Welcome to the bread bank.mp4",
+      "duration": 92,
+      "used": false,
+      "url": "https://v.redd.it/2suca82cmy361",
+      "source": "reddit",
+      "score": 4286,
+      "tags": []
+    },
+    {
+      "video_title": "test/final obama unveils cat mouth noise portrait.mp4",
+      "duration": 21,
+      "used": false,
+      "url": "https://v.redd.it/vae0kws9bk361",
+      "source": "reddit",
+      "score": 16,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Demoman Gaming.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/omknbi10fl361",
+      "source": "reddit",
+      "score": 11,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Its @dr.thug.fo.sho mfs..mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/ygj0og7ull361",
+      "source": "reddit",
+      "score": 12,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He vibin vibin'.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/hmr39nfrhl361",
+      "source": "reddit",
+      "score": 12,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Wholesome 100.mp4",
+      "duration": 21,
+      "used": false,
+      "url": "https://v.redd.it/7w9oos5o5l361",
+      "source": "reddit",
+      "score": 20,
+      "tags": []
+    },
+    {
+      "video_title": "test/final She's got a really nice voice tho!!.mp4",
+      "duration": 20,
+      "used": false,
+      "url": "https://v.redd.it/vukfzfgbqj361",
+      "source": "reddit",
+      "score": 45,
+      "tags": []
+    },
+    {
+      "video_title": "test/final ai.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/59zenw8dgk361",
+      "source": "reddit",
+      "score": 31,
+      "tags": []
+    },
+    {
+      "video_title": "test/final R.mp4",
+      "duration": 53,
+      "used": false,
+      "url": "https://v.redd.it/5isetubjdl361",
+      "source": "reddit",
+      "score": 19,
+      "tags": []
+    },
+    {
+      "video_title": "test/final They lied to us.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/1h3g7wtyjl361",
+      "source": "reddit",
+      "score": 28,
+      "tags": []
+    },
+    {
+      "video_title": "test/final NoFreeKarma4U.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/nsaqmggn5m361",
+      "source": "reddit",
+      "score": 21,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hit it comrade!.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/yyialrfacl361",
+      "source": "reddit",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Pov it is 2010.mp4",
+      "duration": 45,
+      "used": false,
+      "url": "https://v.redd.it/i084cslq7j361",
+      "source": "reddit",
+      "score": 752,
+      "tags": []
+    },
+    {
+      "video_title": "test/final EDP kills Darth Maul.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/x0vaeqo50j361",
+      "source": "reddit",
+      "score": 1411,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Unexpected turn.mp4",
+      "duration": 25,
+      "used": false,
+      "url": "https://v.redd.it/y4ph5pu9ci361",
+      "source": "reddit",
+      "score": 2,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Dueling Mandalorians.mp4",
+      "duration": 20,
+      "used": false,
+      "url": "https://v.redd.it/342ouopvqh361",
+      "source": "reddit",
+      "score": 3,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Official Music Video.mp4",
+      "duration": 24,
+      "used": false,
+      "url": "https://v.redd.it/6tt566zvbi361",
+      "source": "reddit",
+      "score": 3,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Furry Skull.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/zex0e3c7ci361",
+      "source": "reddit",
+      "score": 3,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Asia man no the robber (colon)(.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/a3vlybqtdg361",
+      "source": "reddit",
+      "score": 13,
+      "tags": []
+    },
+    {
+      "video_title": "test/final It's turning me on.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/v6ou3bq8ci361",
+      "source": "reddit",
+      "score": 5,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bouncy.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/e8qgls7aci361",
+      "source": "reddit",
+      "score": 5,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Gamer Problems.mp4",
+      "duration": 25,
+      "used": false,
+      "url": "https://v.redd.it/pdzagmn5ci361",
+      "source": "reddit",
+      "score": 6,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Crispy....mp4",
+      "duration": 34,
+      "used": false,
+      "url": "https://v.redd.it/jqzqbw8yfg361",
+      "source": "reddit",
+      "score": 26,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \ud83d\ude33\u0645\u0633\u0645\u0633\u0645\u0646\u0633\u0647\u0635\u062e\u0633\u0647\u0635\u0646 \u0646\u064a\u0646\u0648 \u0647\u0635\u062a\u0635\u062a\u0635\u062a\u0633\u062a\u0633\u0633\u062a \u0635\u0639\u0627\u0635\u0627\u0635\u0627.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/5natew9e1h361",
+      "source": "reddit",
+      "score": 21,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ahhhh.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/bclpiszsng361",
+      "source": "reddit",
+      "score": 32,
+      "tags": []
+    },
+    {
+      "video_title": "test/final do the pogchamp.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/i2c07th3i1161",
+      "source": "reddit",
+      "score": 271,
+      "tags": []
+    },
+    {
+      "video_title": "test/final God bless you my child.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/b6mhaz5c83161",
+      "source": "reddit",
+      "score": 120,
+      "tags": []
+    },
+    {
+      "video_title": "test/final omg cancel him.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/o8ijcfju43161",
+      "source": "reddit",
+      "score": 129,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He do be vibing.mp4",
+      "duration": 59,
+      "used": false,
+      "url": "https://v.redd.it/w6f0bgosl4161",
+      "source": "reddit",
+      "score": 102,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Twitch streamer go arhhhhhhhhhhhhhhhhhh.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/wn3snlt723161",
+      "source": "reddit",
+      "score": 271,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Memories.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/50xsofb6k5161",
+      "source": "reddit",
+      "score": 62,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Don't give up! NNN is almost over!.mp4",
+      "duration": 58,
+      "used": false,
+      "url": "https://v.redd.it/8e477jvkq4161",
+      "source": "reddit",
+      "score": 116,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ass Is Moist.mp4",
+      "duration": 26,
+      "used": false,
+      "url": "https://v.redd.it/iiilfval03161",
+      "source": "reddit",
+      "score": 350,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Polish Cow True Pog Champ..mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/vdgkjuyziz061",
+      "source": "reddit",
+      "score": 4589,
+      "tags": []
+    },
+    {
+      "video_title": "test/final monke control drone.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/ee2uz5x8c4161",
+      "source": "reddit",
+      "score": 232,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Mod approved.mp4",
+      "duration": 45,
+      "used": false,
+      "url": "https://v.redd.it/dy9lphze43161",
+      "source": "reddit",
+      "score": 570,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Kinda fire.mp4",
+      "duration": 22,
+      "used": false,
+      "url": "https://v.redd.it/tt6p99wv03161",
+      "source": "reddit",
+      "score": 632,
+      "tags": []
+    },
+    {
+      "video_title": "test/final don\u2019t be racist guys!.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/zfnrmqzul2161",
+      "source": "reddit",
+      "score": 888,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Older Clip made into a golden meme.mp4",
+      "duration": 43,
+      "used": false,
+      "url": "https://v.redd.it/ullajatds8161",
+      "source": "reddit",
+      "score": 40,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Trumplander.mp4",
+      "duration": 38,
+      "used": false,
+      "url": "https://v.redd.it/r8115zyiy8161",
+      "source": "reddit",
+      "score": 32,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Chicken.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/3ncnno09q8161",
+      "source": "reddit",
+      "score": 44,
+      "tags": []
+    },
+    {
+      "video_title": "test/final If she Rick rolls the internet yet again that would be hilarious.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/kiliyvjc38161",
+      "source": "reddit",
+      "score": 91,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The horror.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/7f8mdp7s68161",
+      "source": "reddit",
+      "score": 92,
+      "tags": []
+    },
+    {
+      "video_title": "test/final No Nut November be hard these days.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/k3pt4kvup9161",
+      "source": "reddit",
+      "score": 43,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Every soul deserves a chance.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/83qrb49mca161",
+      "source": "reddit",
+      "score": 30,
+      "tags": []
+    },
+    {
+      "video_title": "test/final When you feel my meat (colon)(.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/qff50j17m8161",
+      "source": "reddit",
+      "score": 89,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Jumpy music \ud83c\uddf8\ud83c\uddfe.mp4",
+      "duration": 45,
+      "used": false,
+      "url": "https://v.redd.it/4clvr8uyi8161",
+      "source": "reddit",
+      "score": 107,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The return of the king.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/blheibt7q7161",
+      "source": "reddit",
+      "score": 194,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Seriously don\u2019t mess with the sea life people.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/l4h09jelma161",
+      "source": "reddit",
+      "score": 36,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Fnaf.mp4",
+      "duration": 86,
+      "used": false,
+      "url": "https://v.redd.it/h6g14mhj99161",
+      "source": "reddit",
+      "score": 101,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Kermit has an exaggerated swagger of a black teen.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/ighvrkj5u9161",
+      "source": "reddit",
+      "score": 73,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Like yo cut g.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/4o3u5p0hn8161",
+      "source": "reddit",
+      "score": 155,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I just wanna be happy guys, this November was tough.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/h1lbb5v9d9161",
+      "source": "reddit",
+      "score": 101,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Spiny Koopa Shells are the worst.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/92fkx0wsb7161",
+      "source": "reddit",
+      "score": 385,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Remember, No Thot..mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/7fl9clfs1a161",
+      "source": "reddit",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Florida.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/whwzrsh689161",
+      "source": "reddit",
+      "score": 131,
+      "tags": []
+    },
+    {
+      "video_title": "test/final This game was ahead of its time \ud83d\ude33.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/jdzd7f7jn8161",
+      "source": "reddit",
+      "score": 193,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Painchamp.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/vzx8di48t3161",
+      "source": "reddit",
+      "score": 7022,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Subway surf irl.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/b1mnt71469161",
+      "source": "reddit",
+      "score": 212,
+      "tags": []
+    },
+    {
+      "video_title": "test/final the ultimate showdown.mp4",
+      "duration": 76,
+      "used": false,
+      "url": "https://v.redd.it/f9xgtgmr8b161",
+      "source": "reddit",
+      "score": 62,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Thanks.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/yxxxbaav39161",
+      "source": "reddit",
+      "score": 298,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Kings.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/zs6rv77gea161",
+      "source": "reddit",
+      "score": 191,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Big changos!.mp4",
+      "duration": 24,
+      "used": false,
+      "url": "https://v.redd.it/fthggosnj8161",
+      "source": "reddit",
+      "score": 642,
+      "tags": []
+    },
+    {
+      "video_title": "test/final That was.. unexpected.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/vla05h0vh8161",
+      "source": "reddit",
+      "score": 680,
+      "tags": []
+    },
+    {
+      "video_title": "test/final PSA(colon) Pogchamp.mp4",
+      "duration": 32,
+      "used": false,
+      "url": "https://v.redd.it/o258amtv29161",
+      "source": "reddit",
+      "score": 484,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Dumb egg shot his shadow.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/3kcoqzlcp8161",
+      "source": "reddit",
+      "score": 665,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Waow.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/5ilokf1q67161",
+      "source": "reddit",
+      "score": 1881,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Please answer.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/dox0aq5um7161",
+      "source": "reddit",
+      "score": 1540,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ahh puppy.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/4gwxgyasx6161",
+      "source": "reddit",
+      "score": 3061,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Me and the boys practicing for our rock concert..mp4",
+      "duration": 72,
+      "used": false,
+      "url": "https://v.redd.it/jnbix6e3eb161",
+      "source": "reddit",
+      "score": 158,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Gamer Moment.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/73izo8ikea161",
+      "source": "reddit",
+      "score": 344,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Frog be vibin.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/ve1r2t41dc161",
+      "source": "reddit",
+      "score": 101,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Myself (colon)(.mp4",
+      "duration": 20,
+      "used": false,
+      "url": "https://v.redd.it/2iosbdujb9161",
+      "source": "reddit",
+      "score": 696,
+      "tags": []
+    },
+    {
+      "video_title": "test/final So scary \ud83d\ude31\ud83d\ude31\ud83d\ude31.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/yv2tr8y6ke161",
+      "source": "reddit",
+      "score": 28,
+      "tags": []
+    },
+    {
+      "video_title": "test/final my asshole burns.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/o2qjp4f34b161",
+      "source": "reddit",
+      "score": 281,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Dude, that's perfect.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/7svv21b2pd161",
+      "source": "reddit",
+      "score": 57,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Heavy and Medic do the thing.mp4",
+      "duration": 22,
+      "used": false,
+      "url": "https://v.redd.it/mqw4j7lhsc161",
+      "source": "reddit",
+      "score": 105,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Turkeyjerky.mp4",
+      "duration": 24,
+      "used": false,
+      "url": "https://v.redd.it/4hig0k7wd7161",
+      "source": "reddit",
+      "score": 4754,
+      "tags": []
+    },
+    {
+      "video_title": "test/final here it is.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/uauz3n1erf161",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Gordon Ramsay LOVES the food He is served..mp4",
+      "duration": 26,
+      "used": false,
+      "url": "https://v.redd.it/sarehd9q0e161",
+      "source": "reddit",
+      "score": 69,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Made this when I was bored.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/kz5sa7zzmg161",
+      "source": "reddit",
+      "score": 16,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Chad and friends try to show Soyjak the truth about his girlfriend (OC).mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/odndpytkad161",
+      "source": "reddit",
+      "score": 116,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Student's life sucks.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/yn5a4joape161",
+      "source": "reddit",
+      "score": 96,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Pablo..mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/0nh40kc08f161",
+      "source": "reddit",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Dirty Girl.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/tp6lqfgiea161",
+      "source": "reddit",
+      "score": 1832,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Feed the poor.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/xmbg7d9wwh161",
+      "source": "reddit",
+      "score": 27,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Almost lost No Nut November.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/2l9gqo37cf161",
+      "source": "reddit",
+      "score": 132,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Free Bobby Shmurda.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/ia0jiuf7zg161",
+      "source": "reddit",
+      "score": 61,
+      "tags": []
+    },
+    {
+      "video_title": "test/final doom music.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/s1mihufioi161",
+      "source": "reddit",
+      "score": 17,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I guess you are my little spiderchamp.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/hktpgio6nf161",
+      "source": "reddit",
+      "score": 150,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Porrot.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/ec35m35kjf161",
+      "source": "reddit",
+      "score": 182,
+      "tags": []
+    },
+    {
+      "video_title": "test/final No body is perfect.mp4",
+      "duration": 58,
+      "used": false,
+      "url": "https://v.redd.it/4a8i7mtkrc161",
+      "source": "reddit",
+      "score": 1159,
+      "tags": []
+    },
+    {
+      "video_title": "test/final An interesting title.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/zl541iz6ng161",
+      "source": "reddit",
+      "score": 130,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Soup.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/6vqhaar6ub161",
+      "source": "reddit",
+      "score": 3489,
+      "tags": []
+    },
+    {
+      "video_title": "test/final time on the train.mp4",
+      "duration": 27,
+      "used": false,
+      "url": "https://v.redd.it/fcye128awg161",
+      "source": "reddit",
+      "score": 115,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Yes I have a 150 dollar yoyo, Alexa how do I commit suici\ud83c\udd71\ufe0fe.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/mbz4x9riph161",
+      "source": "reddit",
+      "score": 72,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Guys, she's dead..mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/u379keh57h161",
+      "source": "reddit",
+      "score": 96,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Phineas has had enough.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/vpl7ae1erf161",
+      "source": "reddit",
+      "score": 262,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ok here you go.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/zx3pq8shsb161",
+      "source": "reddit",
+      "score": 4377,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Wait-.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/3yj0ux2e7f161",
+      "source": "reddit",
+      "score": 401,
+      "tags": []
+    },
+    {
+      "video_title": "test/final It's been so long....mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/zd2i84r63i161",
+      "source": "reddit",
+      "score": 81,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He do be vibin doe.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/mdqharwuwh161",
+      "source": "reddit",
+      "score": 94,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Simps be like.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/3zpfattszh161",
+      "source": "reddit",
+      "score": 95,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Pick up the phone!!.mp4",
+      "duration": 35,
+      "used": false,
+      "url": "https://v.redd.it/yuy6ol1rqi161",
+      "source": "reddit",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My man got his pizza.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/rckjh5seqi161",
+      "source": "reddit",
+      "score": 95,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The ONLY way this clip should be used.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/kx5sourfih161",
+      "source": "reddit",
+      "score": 203,
+      "tags": []
+    },
+    {
+      "video_title": "test/final We failed men.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/v0yerzwm9j161",
+      "source": "reddit",
+      "score": 73,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Go brainless.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/wgd5w0ye0j161",
+      "source": "reddit",
+      "score": 90,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Npesta Kenos reaction.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/e1xnu7tcim161",
+      "source": "reddit",
+      "score": 12,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Invading Polska.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/2o63r9t6sd161",
+      "source": "reddit",
+      "score": 4154,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Oh no he stole his robux.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/yrfn0bv3oj161",
+      "source": "reddit",
+      "score": 93,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hi and this is your daily dose of Internet.mp4",
+      "duration": 57,
+      "used": false,
+      "url": "https://v.redd.it/fko1yxsl2i161",
+      "source": "reddit",
+      "score": 342,
+      "tags": []
+    },
+    {
+      "video_title": "test/final When you're told to warm up the turkey but you've never cooked before.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/dn801b22lm161",
+      "source": "reddit",
+      "score": 23,
+      "tags": []
+    },
+    {
+      "video_title": "test/final One of our Gouramis gets a call. (Sound required).mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/ocrudy87fo161",
+      "source": "reddit",
+      "score": 8,
+      "tags": []
+    },
+    {
+      "video_title": "test/final D.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/h3vuc7xurj161",
+      "source": "reddit",
+      "score": 137,
+      "tags": []
+    },
+    {
+      "video_title": "test/final When your friend have failed the exam and you think that you won't do the same.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/9tc7j7y0ll161",
+      "source": "reddit",
+      "score": 42,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Step 1. Wait for it to rain.mp4",
+      "duration": 23,
+      "used": false,
+      "url": "https://v.redd.it/jvbisjf81f161",
+      "source": "reddit",
+      "score": 4025,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Boi got skills.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/zcfkbosttm161",
+      "source": "reddit",
+      "score": 23,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The ultimate Disney character.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/v1huba65hk161",
+      "source": "reddit",
+      "score": 112,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Another one.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/l0u9jvsp5l161",
+      "source": "reddit",
+      "score": 83,
+      "tags": []
+    },
+    {
+      "video_title": "test/final stfu narc.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/it1eneevzl161",
+      "source": "reddit",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Stop screaming.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/p89kj3xlhm161",
+      "source": "reddit",
+      "score": 43,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My friend does a thing.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/eizx2oyr0p161",
+      "source": "reddit",
+      "score": 9,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Everyone loves christmas..mp4",
+      "duration": 26,
+      "used": false,
+      "url": "https://v.redd.it/edvefjppml161",
+      "source": "reddit",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Oh yeah, rocket league!!!.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/tj6y4yb6ml161",
+      "source": "reddit",
+      "score": 82,
+      "tags": []
+    },
+    {
+      "video_title": "test/final PAC your bags.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/s3cl47f6tl161",
+      "source": "reddit",
+      "score": 89,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I'm sorry for another pogchamp post.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/j7fkp8t1en161",
+      "source": "reddit",
+      "score": 39,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Happy thanksgiving.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/gm9w4kurbp161",
+      "source": "reddit",
+      "score": 12,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Minecraft on twitch..mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/u1hba3adml161",
+      "source": "reddit",
+      "score": 111,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Porn plot twist.mp4",
+      "duration": 26,
+      "used": false,
+      "url": "https://v.redd.it/uyir1p1f2i161",
+      "source": "reddit",
+      "score": 1166,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Le Fishe.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/wt65yhkybn161",
+      "source": "reddit",
+      "score": 45,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Wanna sprite cranberry.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/1wc1kt395l161",
+      "source": "reddit",
+      "score": 177,
+      "tags": []
+    },
+    {
+      "video_title": "test/final POV(colon) You\u2019re a dixie boy watching the union roll into town.mp4",
+      "duration": 59,
+      "used": false,
+      "url": "https://v.redd.it/frcnhbmr0l161",
+      "source": "reddit",
+      "score": 239,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Village of the Hidden Beef - Me vs My Meat.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/em4mld7lhp161",
+      "source": "reddit",
+      "score": 16,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Do the trash compactor.mp4",
+      "duration": 57,
+      "used": false,
+      "url": "https://v.redd.it/djq2okcxim161",
+      "source": "reddit",
+      "score": 123,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Sonic is ass.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/v0q6pjdj8o161",
+      "source": "reddit",
+      "score": 43,
+      "tags": []
+    },
+    {
+      "video_title": "test/final You got a big bootay.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/zsugzhb82q161",
+      "source": "reddit",
+      "score": 15,
+      "tags": []
+    },
+    {
+      "video_title": "test/final You told him.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/xa516ee0sl161",
+      "source": "reddit",
+      "score": 222,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The exaggerated suicide of a Black Teen.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/pyafbwyjko161",
+      "source": "reddit",
+      "score": 43,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Oh shit.mp4",
+      "duration": 26,
+      "used": false,
+      "url": "https://v.redd.it/ter0z9fw8l161",
+      "source": "reddit",
+      "score": 405,
+      "tags": []
+    },
+    {
+      "video_title": "test/final US education system.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/4hsbtit8gm161",
+      "source": "reddit",
+      "score": 187,
+      "tags": []
+    },
+    {
+      "video_title": "test/final F.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/cwnx8svq2o161",
+      "source": "reddit",
+      "score": 76,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Firework.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/58ytzmz1in161",
+      "source": "reddit",
+      "score": 107,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Happy holidays.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/4t7tqkaacp161",
+      "source": "reddit",
+      "score": 35,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \u062a\u0634\u0646\u0628\u0631\u064a\u0631\u064a\u0633\u0648\u0647\u064a\u0627.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/x1wl3hevfn161",
+      "source": "reddit",
+      "score": 156,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Made for kids! BY KIDS!.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/pw2dgzhyso161",
+      "source": "reddit",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Dont forget that I love you bro.mp4",
+      "duration": 52,
+      "used": false,
+      "url": "https://v.redd.it/mogbedsppi161",
+      "source": "reddit",
+      "score": 4749,
+      "tags": []
+    },
+    {
+      "video_title": "test/final We got \u2018em.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/giwr1j6l1o161",
+      "source": "reddit",
+      "score": 138,
+      "tags": []
+    },
+    {
+      "video_title": "test/final CHICKEN POGCHAMP.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/abwjz4na0r161",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Step 4.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/emfurvx04p161",
+      "source": "reddit",
+      "score": 84,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Just singing.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/0i00uuszkm161",
+      "source": "reddit",
+      "score": 409,
+      "tags": []
+    },
+    {
+      "video_title": "test/final P I S S.mp4",
+      "duration": 32,
+      "used": false,
+      "url": "https://v.redd.it/v251f9buqm161",
+      "source": "reddit",
+      "score": 396,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Weiner.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/mt0cj7ws9n161",
+      "source": "reddit",
+      "score": 293,
+      "tags": []
+    },
+    {
+      "video_title": "test/final So happy.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/ozmc8uyvgm161",
+      "source": "reddit",
+      "score": 610,
+      "tags": []
+    },
+    {
+      "video_title": "test/final It is.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/96pzrfk4zl161",
+      "source": "reddit",
+      "score": 944,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hamboorger \ud83d\uddff.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/1a1n3p6cqp161",
+      "source": "reddit",
+      "score": 110,
+      "tags": []
+    },
+    {
+      "video_title": "test/final made by funky space rat on youtube.mp4",
+      "duration": 101,
+      "used": false,
+      "url": "https://v.redd.it/a159x38fdr161",
+      "source": "reddit",
+      "score": 40,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Monkey wet dreams.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/m1e7fsedlr161",
+      "source": "reddit",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Turn Back Time for Many years.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/dmxwkcp0sq161",
+      "source": "reddit",
+      "score": 95,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bugs Bunny is the rap god..mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/u83pbydd1p161",
+      "source": "reddit",
+      "score": 299,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Lmao.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/p9he9q5mot161",
+      "source": "reddit",
+      "score": 16,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Vibing hard.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/e8dxclsghq161",
+      "source": "reddit",
+      "score": 144,
+      "tags": []
+    },
+    {
+      "video_title": "test/final They\u2019re coming through the roof!.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/rz8q5hnzpr161",
+      "source": "reddit",
+      "score": 68,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \ud83c\udfb6\ud83c\udfb6\ud83c\udfb6.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/nc2eqfnq2u161",
+      "source": "reddit",
+      "score": 22,
+      "tags": []
+    },
+    {
+      "video_title": "test/final We\u2019ve got to celebrate our differences!.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/m8g9ojpd2q161",
+      "source": "reddit",
+      "score": 261,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Honk honk.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/lhawe4uhvl161",
+      "source": "reddit",
+      "score": 5322,
+      "tags": []
+    },
+    {
+      "video_title": "test/final No I'm not sorry.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/5iskh52dys161",
+      "source": "reddit",
+      "score": 51,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hangout.mp4",
+      "duration": 33,
+      "used": false,
+      "url": "https://v.redd.it/06qkblhl9s161",
+      "source": "reddit",
+      "score": 89,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Beans.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/ytl10rx53r161",
+      "source": "reddit",
+      "score": 196,
+      "tags": []
+    },
+    {
+      "video_title": "test/final NNN.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/tcp7v22i9s161",
+      "source": "reddit",
+      "score": 108,
+      "tags": []
+    },
+    {
+      "video_title": "test/final patrick hates that channel.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/3aitsemees161",
+      "source": "reddit",
+      "score": 96,
+      "tags": []
+    },
+    {
+      "video_title": "test/final C.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/jnb9idzrbr161",
+      "source": "reddit",
+      "score": 205,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Post.mp4",
+      "duration": 22,
+      "used": false,
+      "url": "https://v.redd.it/dwri4cm2fw161",
+      "source": "reddit",
+      "score": 9,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Nooo Linus.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/retsvq1q7u161",
+      "source": "reddit",
+      "score": 39,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Always look behind you.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/xyjunv6i7r161",
+      "source": "reddit",
+      "score": 278,
+      "tags": []
+    },
+    {
+      "video_title": "test/final sad indeed \ud83d\ude14.mp4",
+      "duration": 20,
+      "used": false,
+      "url": "https://v.redd.it/fm62kmy6wt161",
+      "source": "reddit",
+      "score": 103,
+      "tags": []
+    },
+    {
+      "video_title": "test/final First covid patient be like.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/721690l7ku161",
+      "source": "reddit",
+      "score": 77,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Well that was unfortunate.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/99hqpktjju161",
+      "source": "reddit",
+      "score": 84,
+      "tags": []
+    },
+    {
+      "video_title": "test/final (colon)).mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/ujgl8qnd9s161",
+      "source": "reddit",
+      "score": 365,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Yamete.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/p9tzim3bqw161",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Monke.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/v8ru23rg2q161",
+      "source": "reddit",
+      "score": 1686,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Yee.mp4",
       "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/pxmvi2ipru161",
+      "source": "reddit",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ketchup.mp4",
+      "duration": 51,
+      "used": false,
+      "url": "https://v.redd.it/i4uu2k2u9s161",
+      "source": "reddit",
+      "score": 417,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Harry Potter and the new magic trick.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/apv8los1vr161",
+      "source": "reddit",
+      "score": 540,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Memexican.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/339c72eyru161",
+      "source": "reddit",
+      "score": 103,
+      "tags": []
+    },
+    {
+      "video_title": "test/final REEEEEEEE.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/li72rxwe4v161",
+      "source": "reddit",
+      "score": 88,
+      "tags": []
+    },
+    {
+      "video_title": "test/final ^2.mp4",
+      "duration": 25,
+      "used": false,
+      "url": "https://v.redd.it/v8mhq8ws9u161",
+      "source": "reddit",
+      "score": 166,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Kangaroo.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/od7hb2aiqv161",
+      "source": "reddit",
+      "score": 67,
+      "tags": []
+    },
+    {
+      "video_title": "test/final When non English speakers listen to an English song...mp4",
+      "duration": 66,
+      "used": false,
+      "url": "https://v.redd.it/1arr99nmpu161",
+      "source": "reddit",
+      "score": 131,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Yeah I gamer.mp4",
+      "duration": 78,
+      "used": false,
+      "url": "https://v.redd.it/2o6lij6jnx161",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I have nothing to Say bout this.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/s5l7msp4fu161",
+      "source": "reddit",
+      "score": 253,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Donald kun.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/lph9yoyxgw161",
+      "source": "reddit",
+      "score": 71,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I know it turned you on.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/aavq9quu1t161",
+      "source": "reddit",
+      "score": 611,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My favorite game.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/zrh10vyhus161",
+      "source": "reddit",
+      "score": 800,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Discord moment.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/uawkhweacu161",
+      "source": "reddit",
+      "score": 314,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Video with words on it.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/t32ulm6p5w161",
+      "source": "reddit",
+      "score": 105,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Furry Go BRRRR.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/t944aaaluv161",
+      "source": "reddit",
+      "score": 147,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ches.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/hpsti0hkcw161",
+      "source": "reddit",
+      "score": 107,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Gypsy is Confused.mp4",
+      "duration": 2,
+      "used": false,
+      "url": "https://v.redd.it/5iw0fk9iuv161",
+      "source": "reddit",
+      "score": 210,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Phil Collinz.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/n5s7qon128261",
+      "source": "reddit",
+      "score": 0,
+      "tags": []
+    },
+    {
+      "video_title": "test/final WOOHOO.mp4",
+      "duration": 2,
+      "used": false,
+      "url": "https://v.redd.it/azlk2ibs6y161",
+      "source": "reddit",
+      "score": 66,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Vibe.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/baiijp03sy161",
+      "source": "reddit",
+      "score": 52,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Gottem.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/j3mk2bkihx161",
+      "source": "reddit",
+      "score": 134,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Song is California Dreaming.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/ys82yb1ixw161",
+      "source": "reddit",
+      "score": 319,
+      "tags": []
+    },
+    {
+      "video_title": "test/final They're groovin'.mp4",
+      "duration": 36,
+      "used": false,
+      "url": "https://v.redd.it/urfnnvv3bz161",
+      "source": "reddit",
+      "score": 77,
+      "tags": []
+    },
+    {
+      "video_title": "test/final charles.mp4",
+      "duration": 64,
+      "used": false,
+      "url": "https://v.redd.it/h2dxnui6vt161",
+      "source": "reddit",
+      "score": 3591,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Oh no!.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/y94z3iqsy0261",
+      "source": "reddit",
+      "score": 31,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I see.mp4",
+      "duration": 40,
+      "used": false,
+      "url": "https://v.redd.it/8d97hv9jku161",
+      "source": "reddit",
+      "score": 2293,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Aliens go brrrr.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/hmr21pacjx161",
+      "source": "reddit",
+      "score": 393,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bet.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/57pjtjqg4z161",
+      "source": "reddit",
+      "score": 213,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \ud83e\udd1a.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/wgtstn6e8x161",
+      "source": "reddit",
+      "score": 759,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Snek.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/d2g76mqfv2261",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Demoknight TF2.mp4",
+      "duration": 91,
+      "used": false,
+      "url": "https://v.redd.it/di9usbtiy1261",
+      "source": "reddit",
+      "score": 48,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I can't believe 2020\u2122 is almost over! \u2665.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/p9kiokore2261",
+      "source": "reddit",
+      "score": 46,
+      "tags": []
+    },
+    {
+      "video_title": "test/final No tile need.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/ip0ehqt950261",
+      "source": "reddit",
+      "score": 184,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Sorry but your sad story won't work here.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/nmu64gleez161",
+      "source": "reddit",
+      "score": 397,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Me wearing all black with glasses, my earphones(colon).mp4",
+      "duration": 113,
+      "used": false,
+      "url": "https://v.redd.it/vt6yzebsb3261",
+      "source": "reddit",
+      "score": 36,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Its Still NNN.mp4",
+      "duration": 43,
+      "used": false,
+      "url": "https://v.redd.it/1efpqmci20261",
+      "source": "reddit",
+      "score": 284,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ugh, fine, I guess I had to make this meme.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/ol0s4s9g51261",
+      "source": "reddit",
+      "score": 164,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I can show you step 2.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/e4mzmhcww0261",
+      "source": "reddit",
+      "score": 206,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Continuing the search....mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/pprvjyhuo3261",
+      "source": "reddit",
+      "score": 42,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Kirby hath come.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/0me2ts3q82261",
+      "source": "reddit",
+      "score": 106,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Twack.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/ht4y9s5tn0261",
+      "source": "reddit",
+      "score": 355,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ngl this is definitely me.mp4",
+      "duration": 23,
+      "used": false,
+      "url": "https://v.redd.it/3rj4wq3m22261",
+      "source": "reddit",
+      "score": 138,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He did nazi that coming.mp4",
+      "duration": 24,
+      "used": false,
+      "url": "https://v.redd.it/0wt98j6se1261",
+      "source": "reddit",
+      "score": 262,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Begone.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/p89n6f2991261",
+      "source": "reddit",
+      "score": 312,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Oui oui.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/q9eccuaa01261",
+      "source": "reddit",
+      "score": 391,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Never forget your roots.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/owxbl6z2s2261",
+      "source": "reddit",
+      "score": 129,
+      "tags": []
+    },
+    {
+      "video_title": "test/final So annoying.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/pc8o48yh73261",
+      "source": "reddit",
+      "score": 114,
+      "tags": []
+    },
+    {
+      "video_title": "test/final johnny bravo bombs a plane.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/nla69w5aay161",
+      "source": "reddit",
+      "score": 3174,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Headass.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/mdhujtjm14261",
+      "source": "reddit",
+      "score": 83,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Cringe Meme.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/i1jtbmzyw4261",
+      "source": "reddit",
+      "score": 52,
+      "tags": []
+    },
+    {
+      "video_title": "test/final A.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/ec971d92d2261",
+      "source": "reddit",
+      "score": 302,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Slavery.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/uudp3xmde4261",
+      "source": "reddit",
+      "score": 88,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Got shown this in discord.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/jw0gynb2x2261",
+      "source": "reddit",
+      "score": 297,
+      "tags": []
+    },
+    {
+      "video_title": "test/final People are dumb.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/tg5thfdkn1261",
+      "source": "reddit",
+      "score": 674,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Mr.monkey!!.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/wfmuorblv3261",
+      "source": "reddit",
+      "score": 175,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Come here redditor.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/3j5c8432yz161",
+      "source": "reddit",
+      "score": 5535,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Run monk\u00e9 run.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/etdyisyat5261",
+      "source": "reddit",
+      "score": 115,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I wish I had a PS5.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/ez0ugsadw4261",
+      "source": "reddit",
+      "score": 199,
+      "tags": []
+    },
+    {
+      "video_title": "test/final When you're watching your favourite show and the soundtrack is on point..mp4",
+      "duration": 33,
+      "used": false,
+      "url": "https://v.redd.it/5bjs4ly9d6261",
+      "source": "reddit",
+      "score": 86,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Stronger than you.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/p96431m7e6261",
+      "source": "reddit",
+      "score": 98,
+      "tags": []
+    },
+    {
+      "video_title": "test/final So sad....mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/jo5nlkk6x2261",
+      "source": "reddit",
+      "score": 950,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I hate you!.mp4",
+      "duration": 46,
+      "used": false,
+      "url": "https://v.redd.it/pqrqf4yp35261",
+      "source": "reddit",
+      "score": 242,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Picture shown is actual size.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/gf09poj5z6261",
+      "source": "reddit",
+      "score": 87,
+      "tags": []
+    },
+    {
+      "video_title": "test/final French people.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/7qjbwfgmr3261",
+      "source": "reddit",
+      "score": 660,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Oh yeah!.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/c7qbemiln4261",
+      "source": "reddit",
+      "score": 481,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Cat got pipes.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/kbpzm16pi5261",
+      "source": "reddit",
+      "score": 317,
+      "tags": []
+    },
+    {
+      "video_title": "test/final nothing but a monkey spining on soulja boy.mp4",
+      "duration": 31,
+      "used": false,
+      "url": "https://v.redd.it/4q6dkffha7261",
+      "source": "reddit",
+      "score": 175,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Found on discord.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/40f68mh9g8261",
+      "source": "reddit",
+      "score": 99,
+      "tags": []
+    },
+    {
+      "video_title": "test/final because fuck pianos.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/3y5ugdjcbb261",
+      "source": "reddit",
+      "score": 18,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Stand Proud.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/uvz7syx3c6261",
+      "source": "reddit",
+      "score": 465,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Let me feed you my child.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/avz7ezdaz9261",
+      "source": "reddit",
+      "score": 46,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Let Me Shit For You.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/vjckaswfp8261",
+      "source": "reddit",
+      "score": 117,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Corey Taylor.mp4",
+      "duration": 34,
+      "used": false,
+      "url": "https://v.redd.it/wq50uozo99261",
+      "source": "reddit",
+      "score": 90,
+      "tags": []
+    },
+    {
+      "video_title": "test/final An interesting title.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/f24ho30zo6261",
+      "source": "reddit",
+      "score": 454,
+      "tags": []
+    },
+    {
+      "video_title": "test/final YOU CAN'T RUN FOR LONG.mp4",
+      "duration": 25,
+      "used": false,
+      "url": "https://v.redd.it/26t0asrtm7261",
+      "source": "reddit",
+      "score": 353,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Fun.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/k1copp3i44261",
+      "source": "reddit",
+      "score": 5591,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Don't let this flop boys.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/7av5wfgjn6261",
+      "source": "reddit",
+      "score": 821,
+      "tags": []
+    },
+    {
+      "video_title": "test/final A PC on PCP.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/r8dw5ydc09261",
+      "source": "reddit",
+      "score": 237,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Sonics funeral tomorrow at 3 PM.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/at34q59138261",
+      "source": "reddit",
+      "score": 436,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Beyblade is awesome and you can't change my mind.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/u52vwt41tb261",
+      "source": "reddit",
+      "score": 48,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Title.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/rwkdnbzurb261",
+      "source": "reddit",
+      "score": 52,
+      "tags": []
+    },
+    {
+      "video_title": "test/final NUMBA 4.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/rvpm9fi89b261",
+      "source": "reddit",
+      "score": 71,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Super Mario.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/t4dnkcpj29261",
+      "source": "reddit",
+      "score": 298,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He do be vibin doe.mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/83cw7dlfy8261",
+      "source": "reddit",
+      "score": 401,
+      "tags": []
+    },
+    {
+      "video_title": "test/final This how it be when your homies leave.mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/cv4pr1r7ib261",
+      "source": "reddit",
+      "score": 90,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Orbit vs Security Guard.mp4",
+      "duration": 85,
+      "used": false,
+      "url": "https://v.redd.it/156epuw4ta261",
+      "source": "reddit",
+      "score": 152,
+      "tags": []
+    },
+    {
+      "video_title": "test/final filaciaga.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/66wha5hzwd261",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final (colon)0 u can\u2019t call people it!.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/7visvu1d3d261",
+      "source": "reddit",
+      "score": 45,
+      "tags": []
+    },
+    {
+      "video_title": "test/final at least he has one.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/og9c6wg0fc261",
+      "source": "reddit",
+      "score": 72,
+      "tags": []
+    },
+    {
+      "video_title": "test/final OH LAWD HE COMIN.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/odj3o89khe261",
+      "source": "reddit",
+      "score": 26,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Online classes are real fun.mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/ynd0dsrnbf261",
+      "source": "reddit",
+      "score": 19,
+      "tags": []
+    },
+    {
+      "video_title": "test/final You see Batman.mp4",
+      "duration": 34,
+      "used": false,
+      "url": "https://v.redd.it/w7kc8zphma261",
+      "source": "reddit",
+      "score": 451,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Silence witch.com.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/cxg4mq3c3e261",
+      "source": "reddit",
+      "score": 67,
+      "tags": []
+    },
+    {
+      "video_title": "test/final cereal.mp4",
+      "duration": 60,
+      "used": false,
+      "url": "https://v.redd.it/0dzng4plge261",
+      "source": "reddit",
+      "score": 58,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Everyone whisper.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/if9lmut0ee261",
+      "source": "reddit",
+      "score": 57,
+      "tags": []
+    },
+    {
+      "video_title": "test/final carlos.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/f578byt80b261",
+      "source": "reddit",
+      "score": 494,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Demoman.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/v8wewpjbca261",
+      "source": "reddit",
+      "score": 856,
+      "tags": []
+    },
+    {
+      "video_title": "test/final What did I make.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/uob6u0ug6d261",
+      "source": "reddit",
+      "score": 154,
+      "tags": []
+    },
+    {
+      "video_title": "test/final H I G H E R.mp4",
+      "duration": 27,
+      "used": false,
+      "url": "https://v.redd.it/mr7lhhett9261",
+      "source": "reddit",
+      "score": 1718,
+      "tags": []
+    },
+    {
+      "video_title": "test/final A thousand blessings to you and your family this winter. The crop yield shall be bountiful inshallah.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/9wr2301h8h261",
+      "source": "reddit",
+      "score": 18,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He do be turning around before falling tho.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/ybre314b3b261",
+      "source": "reddit",
+      "score": 892,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \u00d6.mp4",
+      "duration": 39,
+      "used": false,
+      "url": "https://v.redd.it/h98rm9lvlo261",
+      "source": "reddit",
+      "score": 0,
+      "tags": []
+    },
+    {
+      "video_title": "test/final K9,keeper of the green room.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/orgva5rzvd261",
+      "source": "reddit",
+      "score": 168,
+      "tags": []
+    },
+    {
+      "video_title": "test/final BONK.mp4",
+      "duration": 2,
+      "used": false,
+      "url": "https://v.redd.it/qikbww863f261",
+      "source": "reddit",
+      "score": 81,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Nuha....mp4",
+      "duration": 37,
+      "used": false,
+      "url": "https://v.redd.it/2atfumn10e261",
+      "source": "reddit",
+      "score": 158,
+      "tags": []
+    },
+    {
+      "video_title": "test/final How ironic.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/ccc2xs7q9f261",
+      "source": "reddit",
+      "score": 77,
+      "tags": []
+    },
+    {
+      "video_title": "test/final France is just a big Minecraft server.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/xsjoayrj0f261",
+      "source": "reddit",
+      "score": 91,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Can\u2019t fucking wait.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/e60drgul3h261",
+      "source": "reddit",
+      "score": 29,
+      "tags": []
+    },
+    {
+      "video_title": "test/final It\u2019s a beautiful day outside.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/msv5aqzdph261",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Gypsycrusader.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/3pq9t0cyca261",
+      "source": "reddit",
+      "score": 2720,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I get what I fucking deserve!.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/66jfi6041h261",
+      "source": "reddit",
+      "score": 40,
+      "tags": []
+    },
+    {
+      "video_title": "test/final snifff \u201cooohhh your a stinky guy\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f\u201d.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/dimaq44djg261",
+      "source": "reddit",
+      "score": 53,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Pop pop pop pop pop pop pop pop.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/xj35m325ve261",
+      "source": "reddit",
+      "score": 159,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Uh oh.mp4",
+      "duration": 21,
+      "used": false,
+      "url": "https://v.redd.it/syvc35qv9f261",
+      "source": "reddit",
+      "score": 123,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Obama gaming.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/02dhd02sqe261",
+      "source": "reddit",
+      "score": 175,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \ud83d\udc41\ud83d\udc44\ud83d\udc41.mp4",
+      "duration": 22,
+      "used": false,
+      "url": "https://v.redd.it/flju21kjee261",
+      "source": "reddit",
+      "score": 231,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The different types of Mario\u2019s.mp4",
+      "duration": 49,
+      "used": false,
+      "url": "https://v.redd.it/qcvq3m9sxf261",
+      "source": "reddit",
+      "score": 95,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Because I'm happyyy.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/bzjv3t41vg261",
+      "source": "reddit",
+      "score": 53,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Brolly is cancelled.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/oy857q41vf261",
+      "source": "reddit",
+      "score": 115,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bye bye, Cookie man.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/gog4rh3osa261",
+      "source": "reddit",
+      "score": 3986,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Girls are scary.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/o2uy8y0wjh261",
+      "source": "reddit",
+      "score": 49,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Aah yes awkwardness, my old friend.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/kd0uv01u3f261",
+      "source": "reddit",
+      "score": 236,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Begone thot!.mp4",
+      "duration": 24,
+      "used": false,
+      "url": "https://v.redd.it/nisb7c2gig261",
+      "source": "reddit",
+      "score": 114,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I stole this.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/f8ddxhgh3d261",
+      "source": "reddit",
+      "score": 1207,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Pinky and the Thot.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/nwvzg6zh1j261",
+      "source": "reddit",
+      "score": 28,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Rip uncle Phil.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/8nrxdc04hg261",
+      "source": "reddit",
+      "score": 150,
+      "tags": []
+    },
+    {
+      "video_title": "test/final ice on my wrist like a ghost skating.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/1fxdxqpwbh261",
+      "source": "reddit",
+      "score": 98,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \u0152\u00f2\u00e4d\u0161\u00eb.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/us7kxs82bk261",
+      "source": "reddit",
+      "score": 18,
+      "tags": []
+    },
+    {
+      "video_title": "test/final NaZis \ud83d\ude08.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/elwtnvk9ef261",
+      "source": "reddit",
+      "score": 420,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Tesla can soon connect to other Tesla drivers via Bluetooth (Warning(colon) Strong language from MW2 lobby).mp4",
+      "duration": 62,
+      "used": false,
+      "url": "https://v.redd.it/1km2k3h7ue261",
+      "source": "reddit",
+      "score": 630,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The cartels have gone to far this time.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/u5npb171rf261",
+      "source": "reddit",
+      "score": 638,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Army Issue Equipment.mp4",
+      "duration": 40,
+      "used": false,
+      "url": "https://v.redd.it/49gfife5td261",
+      "source": "reddit",
+      "score": 4619,
+      "tags": []
+    },
+    {
+      "video_title": "test/final girls.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/5ylb3pu7qg261",
+      "source": "reddit",
+      "score": 524,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I'll take my leave then....mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/wupqwcb5zd261",
+      "source": "reddit",
+      "score": 3941,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The power of editing.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/3hiei32gik261",
+      "source": "reddit",
+      "score": 51,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Men.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/22hutjn2lk261",
+      "source": "reddit",
+      "score": 52,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Let it rip!.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/0s672q465k261",
+      "source": "reddit",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Trumpet.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/6ldp6xo4nl261",
+      "source": "reddit",
+      "score": 36,
+      "tags": []
+    },
+    {
+      "video_title": "test/final We all know that's a lie.mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/wj7aqny5xi261",
+      "source": "reddit",
+      "score": 217,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He definitely built different.mp4",
+      "duration": 53,
+      "used": false,
+      "url": "https://v.redd.it/1wqsgupsvl261",
+      "source": "reddit",
+      "score": 37,
+      "tags": []
+    },
+    {
+      "video_title": "test/final MORON.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/fv9qk5x4hl261",
+      "source": "reddit",
+      "score": 59,
+      "tags": []
+    },
+    {
+      "video_title": "test/final UwU.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/5qryktix3l261",
+      "source": "reddit",
+      "score": 78,
+      "tags": []
+    },
+    {
+      "video_title": "test/final You are not my son.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/eyjvx38qzl261",
+      "source": "reddit",
+      "score": 48,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Is MayOnAise an InStRument.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/boa515kahm261",
+      "source": "reddit",
+      "score": 36,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My last day of feeding the girls before I head out to the east coast for a few weeks.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/coy549u7do261",
+      "source": "reddit",
+      "score": 14,
+      "tags": []
+    },
+    {
+      "video_title": "test/final What the Fuck.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/z76trc5i3n261",
+      "source": "reddit",
+      "score": 33,
+      "tags": []
+    },
+    {
+      "video_title": "test/final .....(colon)(colon)(colon).mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/0uv3lwprmk261",
+      "source": "reddit",
+      "score": 172,
+      "tags": []
+    },
+    {
+      "video_title": "test/final EDP445 is out your window.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/54d7cch48o261",
+      "source": "reddit",
+      "score": 19,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Sorry of the editing is bad,i tried my best.mp4",
+      "duration": 23,
+      "used": false,
+      "url": "https://v.redd.it/u0t9gqxszm261",
+      "source": "reddit",
+      "score": 44,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hello weary traveler.mp4",
+      "duration": 55,
+      "used": false,
+      "url": "https://v.redd.it/i1bx49j33n261",
+      "source": "reddit",
+      "score": 44,
+      "tags": []
+    },
+    {
+      "video_title": "test/final NNN it's over but here starts No Demon December..mp4",
+      "duration": 38,
+      "used": false,
+      "url": "https://v.redd.it/2pdjnhachl261",
+      "source": "reddit",
+      "score": 124,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The irony is unreal.mp4",
+      "duration": 33,
+      "used": false,
+      "url": "https://v.redd.it/t4ijrd3fel261",
+      "source": "reddit",
+      "score": 138,
+      "tags": []
+    },
+    {
+      "video_title": "test/final can't believe he would do this.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/52dk4fwyxm261",
+      "source": "reddit",
+      "score": 61,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Title.mp4",
+      "duration": 36,
+      "used": false,
+      "url": "https://v.redd.it/1ow7vza4jm261",
+      "source": "reddit",
+      "score": 73,
+      "tags": []
+    },
+    {
+      "video_title": "test/final nothing else needs to be said.mp4",
+      "duration": 21,
+      "used": false,
+      "url": "https://v.redd.it/9qras4a7an261",
+      "source": "reddit",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "video_title": "test/final They're groovin.mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/pumtgaokwk261",
+      "source": "reddit",
+      "score": 265,
+      "tags": []
+    },
+    {
+      "video_title": "test/final \u00c7R\u00fc\u00dfh.mp4",
+      "duration": 30,
+      "used": false,
+      "url": "https://v.redd.it/nijb7aar9k261",
+      "source": "reddit",
+      "score": 469,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Getting caught.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/b6xziil6fm261",
+      "source": "reddit",
+      "score": 124,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Unashamedly stolen from discord.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/jp08q5e7hk261",
+      "source": "reddit",
+      "score": 440,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Why am i still awake.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/buhdgt698n261",
+      "source": "reddit",
+      "score": 103,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Pog Fiction.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/i23084ro9n261",
+      "source": "reddit",
+      "score": 105,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My little pogchamp.mp4",
+      "duration": 63,
+      "used": false,
+      "url": "https://v.redd.it/mmf9wc8tno261",
+      "source": "reddit",
+      "score": 44,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Zaheer Enters The Oil.mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/y7rcbkcral261",
+      "source": "reddit",
+      "score": 446,
+      "tags": []
+    },
+    {
+      "video_title": "test/final hehe fort.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/34cvgycfsp261",
+      "source": "reddit",
+      "score": 33,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Vroom Vroom.mp4",
+      "duration": 40,
+      "used": false,
+      "url": "https://v.redd.it/wwa1ssb3zj261",
+      "source": "reddit",
+      "score": 1516,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Moff Gideon searching for the child (deleted scene).mp4",
+      "duration": 25,
+      "used": false,
+      "url": "https://v.redd.it/gfyn7v0agp261",
+      "source": "reddit",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "video_title": "test/final good luck son.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/xifwuy2d4q261",
+      "source": "reddit",
+      "score": 103,
+      "tags": []
+    },
+    {
+      "video_title": "test/final fear of the valve guy.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/08nvhxilnp261",
+      "source": "reddit",
+      "score": 133,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Spongebob got busted.mp4",
+      "duration": 22,
+      "used": false,
+      "url": "https://v.redd.it/per1j7wzir261",
+      "source": "reddit",
+      "score": 48,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Imagine telling someone in 2015 that CallMeCarson would objectify Jaiden Animations in Minecraft.mp4",
+      "duration": 22,
+      "used": false,
+      "url": "https://v.redd.it/wjomnc327r261",
+      "source": "reddit",
+      "score": 63,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He\u2019s gonna need a belt fed 250 round MG-42.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/bjz4q0qq4q261",
+      "source": "reddit",
+      "score": 140,
+      "tags": []
+    },
+    {
+      "video_title": "test/final HEIL.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/p9sovu3m4q261",
+      "source": "reddit",
+      "score": 159,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I like ya cut G..mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/6wtafp189p261",
+      "source": "reddit",
+      "score": 278,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Im high af bro.mp4",
+      "duration": 55,
+      "used": false,
+      "url": "https://v.redd.it/j8t0u9lzel261",
+      "source": "reddit",
+      "score": 6464,
+      "tags": []
+    },
+    {
+      "video_title": "test/final She really like dick.mp4",
+      "duration": 21,
+      "used": false,
+      "url": "https://v.redd.it/940xwqrjet261",
+      "source": "reddit",
+      "score": 34,
+      "tags": []
+    },
+    {
+      "video_title": "test/final ayo monke squad check.mp4",
+      "duration": 31,
+      "used": false,
+      "url": "https://v.redd.it/qwii8o2c2u261",
+      "source": "reddit",
+      "score": 34,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Minecraft witches be wild.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/xeu3f5s2cv261",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final cat's final message.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/staam7r2jr261",
+      "source": "reddit",
+      "score": 307,
+      "tags": []
+    },
+    {
+      "video_title": "test/final reject humanity, embrace monke.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/ke7zedv4ys261",
+      "source": "reddit",
+      "score": 154,
+      "tags": []
+    },
+    {
+      "video_title": "test/final ASSALAMU ALAYKUM DADDY.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/2u87afxh5t261",
+      "source": "reddit",
+      "score": 137,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bop it.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/g9j33xcn4q261",
+      "source": "reddit",
+      "score": 986,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Due to public outrage John Lewis has made a new advert (this is a joke).mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/wtjc1dghxu261",
+      "source": "reddit",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Gypsy Crusader Joker.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/yve7z00ols261",
+      "source": "reddit",
+      "score": 231,
+      "tags": []
+    },
+    {
+      "video_title": "test/final If only . . ..mp4",
+      "duration": 23,
+      "used": false,
+      "url": "https://v.redd.it/viub0tzc7u261",
+      "source": "reddit",
+      "score": 86,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Doof.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/uqlnnojlqo261",
+      "source": "reddit",
+      "score": 3599,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I NEED one of those.mp4",
+      "duration": 20,
+      "used": false,
+      "url": "https://v.redd.it/6gtsixbcwr261",
+      "source": "reddit",
+      "score": 462,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Monke nothing more, nothing less.mp4",
+      "duration": 2,
+      "used": false,
+      "url": "https://v.redd.it/lruupa37av261",
+      "source": "reddit",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The Quiet Kids Pulling Into The School Dance Be Like(colon).mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/ne3am25cwv261",
+      "source": "reddit",
+      "score": 44,
+      "tags": []
+    },
+    {
+      "video_title": "test/final That was sum drivin'.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/nsifgnh49u261",
+      "source": "reddit",
+      "score": 120,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Good morning..mp4",
+      "duration": 2,
+      "used": false,
+      "url": "https://v.redd.it/iuo30ekdtt261",
+      "source": "reddit",
+      "score": 201,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Perhaps I am really too much of a Genius.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/lhmquhzkdr261",
+      "source": "reddit",
+      "score": 1819,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Malaysia.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/s63pb42kxv261",
+      "source": "reddit",
+      "score": 113,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The perfect pickup line doesn't exi-.mp4",
+      "duration": 23,
+      "used": false,
+      "url": "https://v.redd.it/z2wgo64s7y261",
+      "source": "reddit",
+      "score": 43,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hold on my mum just called me for dinner.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/42q4h9z3zx261",
+      "source": "reddit",
+      "score": 73,
+      "tags": []
+    },
+    {
+      "video_title": "test/final That bitch Courage won\u2019t let my man ball....mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/3alit9eurv261",
+      "source": "reddit",
+      "score": 304,
+      "tags": []
+    },
+    {
+      "video_title": "test/final We need you.mp4",
+      "duration": 47,
+      "used": false,
+      "url": "https://v.redd.it/oluyuzyc6y261",
+      "source": "reddit",
+      "score": 81,
+      "tags": []
+    },
+    {
+      "video_title": "test/final bro wtf.mp4",
+      "duration": 75,
+      "used": false,
+      "url": "https://v.redd.it/p9ukwfl5ow261",
+      "source": "reddit",
+      "score": 216,
+      "tags": []
+    },
+    {
+      "video_title": "test/final the exaggerated swagger of a black teen.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/hp4s7g2hpv261",
+      "source": "reddit",
+      "score": 408,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He do be chillin' doe.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/noztqcnve1361",
+      "source": "reddit",
+      "score": 16,
+      "tags": []
+    },
+    {
+      "video_title": "test/final STOP WATCHING HENTAI WE MUST TAKE BACK THE HOLY LAND!.mp4",
+      "duration": 51,
+      "used": false,
+      "url": "https://v.redd.it/yc4hzevjcy261",
+      "source": "reddit",
+      "score": 118,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Get Hot Dogged.mp4",
+      "duration": 54,
+      "used": false,
+      "url": "https://v.redd.it/n9ddfo69n1361",
+      "source": "reddit",
+      "score": 18,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Low Carb Meme!.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/790mtxqc01361",
+      "source": "reddit",
+      "score": 32,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Thanks Germany, very cool.mp4",
+      "duration": 35,
+      "used": false,
+      "url": "https://v.redd.it/ifvdtjb2bx261",
+      "source": "reddit",
+      "score": 309,
+      "tags": []
+    },
+    {
+      "video_title": "test/final All cops are bad.mp4",
+      "duration": 7,
+      "used": false,
+      "url": "https://v.redd.it/s2jznte1yz261",
+      "source": "reddit",
+      "score": 64,
+      "tags": []
+    },
+    {
+      "video_title": "test/final we need you soldier.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/uoqrsgsvnx261",
+      "source": "reddit",
+      "score": 266,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Speechless....literally.mp4",
+      "duration": 38,
+      "used": false,
+      "url": "https://v.redd.it/7su2tzlal0361",
+      "source": "reddit",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "video_title": "test/final otis milks the competition.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/dmdyi2qw40361",
+      "source": "reddit",
+      "score": 74,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I was with their dad \ud83d\ude21.mp4",
+      "duration": 59,
+      "used": false,
+      "url": "https://v.redd.it/pqh6g0nqxz261",
+      "source": "reddit",
+      "score": 84,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Meme Rewind 2020.mp4",
+      "duration": 20,
+      "used": false,
+      "url": "https://v.redd.it/o6qkbt5pu1361",
+      "source": "reddit",
+      "score": 26,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bats enjoying Saturday night.mp4",
+      "duration": 39,
+      "used": false,
+      "url": "https://v.redd.it/hi9qrxlrv0361",
+      "source": "reddit",
+      "score": 48,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Miles is getting tired of it.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/bumercyo62361",
+      "source": "reddit",
+      "score": 23,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Oh yeah.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/c1298njbjz261",
+      "source": "reddit",
+      "score": 131,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hold My \u0432\u043e\u0434\u043a\u0430 [Sorry Headphone Users].mp4",
+      "duration": 25,
+      "used": false,
+      "url": "https://v.redd.it/juegbap3ju261",
+      "source": "reddit",
+      "score": 5151,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Exaggerated Swagger.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/g1swuvl5d2361",
+      "source": "reddit",
+      "score": 25,
+      "tags": []
+    },
+    {
+      "video_title": "test/final wocky slush.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/q7x6v01pz3361",
+      "source": "reddit",
+      "score": 10,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Nice cock G.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/1rs6qkadyz261",
+      "source": "reddit",
+      "score": 124,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Tony Montana vs Charlie D\u2019Amelio.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/kzud9ztrz1361",
+      "source": "reddit",
+      "score": 37,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Wholesome dancing.mp4",
+      "duration": 27,
+      "used": false,
+      "url": "https://v.redd.it/vgwj266l21361",
+      "source": "reddit",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Danger.mp4",
+      "duration": 141,
+      "used": false,
+      "url": "https://v.redd.it/pxk6meef30361",
+      "source": "reddit",
+      "score": 143,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Cat Tone Telephone.mp4",
+      "duration": 35,
+      "used": false,
+      "url": "https://v.redd.it/u4rahb8g72361",
+      "source": "reddit",
+      "score": 40,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Woof.mp4",
+      "duration": 3,
+      "used": false,
+      "url": "https://v.redd.it/1jqc1fuor0361",
+      "source": "reddit",
+      "score": 131,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Just tossing bikes into the river bro.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/xmyjs1pai1361",
+      "source": "reddit",
+      "score": 81,
+      "tags": []
+    },
+    {
+      "video_title": "test/final uno.mp4",
+      "duration": 53,
+      "used": false,
+      "url": "https://v.redd.it/cfzqwmqk81361",
+      "source": "reddit",
+      "score": 99,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The squad back at it.mp4",
+      "duration": 34,
+      "used": false,
+      "url": "https://v.redd.it/ul5tr5htk0361",
+      "source": "reddit",
+      "score": 155,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Come swim with me friend.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/qcy0kic7m0361",
+      "source": "reddit",
+      "score": 160,
+      "tags": []
+    },
+    {
+      "video_title": "test/final POV(colon) You\u2019ve Won.mp4",
+      "duration": 89,
+      "used": false,
+      "url": "https://v.redd.it/k12k3byhrz261",
+      "source": "reddit",
+      "score": 318,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Dead dad.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/gztugdg8q1361",
+      "source": "reddit",
+      "score": 98,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Maybe the empire isn\u2019t so bad.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/0h985abqb1361",
+      "source": "reddit",
+      "score": 138,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hope this hasn't been posted before.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/5cdgdm6cv3361",
+      "source": "reddit",
+      "score": 40,
+      "tags": []
+    },
+    {
+      "video_title": "test/final GTA SA Nintendo Gamecube.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/bjnqxmdpj3361",
+      "source": "reddit",
+      "score": 51,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Minority cookie.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/d2npn167gz261",
+      "source": "reddit",
+      "score": 953,
+      "tags": []
+    },
+    {
+      "video_title": "test/final QUEEN.mp4",
+      "duration": 30,
+      "used": false,
+      "url": "https://v.redd.it/nky1mbbc63361",
+      "source": "reddit",
+      "score": 94,
+      "tags": []
+    },
+    {
+      "video_title": "test/final wocky slush.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/nuyz73dwz3361",
+      "source": "reddit",
+      "score": 69,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Making Dead Memes in Roblox(colon) Wide Putin.mp4",
+      "duration": 28,
+      "used": false,
+      "url": "https://v.redd.it/gct8x2siua361",
+      "source": "reddit",
+      "score": 1,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Empire Strikes Back deleted scene.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/hkj4cm4tu5361",
+      "source": "reddit",
+      "score": 43,
+      "tags": []
+    },
+    {
+      "video_title": "test/final nate robinson get knocked out so hard he teleported to windows xp desktop display.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/eh1qktn2d6361",
+      "source": "reddit",
+      "score": 37,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Water expands while freezing.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/e5pa8ym3ez261",
+      "source": "reddit",
+      "score": 5162,
+      "tags": []
+    },
+    {
+      "video_title": "test/final For all my british redditors out there waiting to celebrate christmas.mp4",
+      "duration": 158,
+      "used": false,
+      "url": "https://v.redd.it/aglgj9a1d7361",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final TARDIGRADE HOURS.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/1nqckhmv16361",
+      "source": "reddit",
+      "score": 64,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I just want to be loved.mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/wi3j4foi19361",
+      "source": "reddit",
+      "score": 9,
+      "tags": []
+    },
+    {
+      "video_title": "test/final It's him.mp4",
+      "duration": 23,
+      "used": false,
+      "url": "https://v.redd.it/ea4z61dhw6361",
+      "source": "reddit",
+      "score": 51,
+      "tags": []
+    },
+    {
+      "video_title": "test/final for the first time in 2b2t's history.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/3y6vo7jyq5361",
+      "source": "reddit",
+      "score": 161,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I like to make walks.mp4",
+      "duration": 191,
+      "used": false,
+      "url": "https://v.redd.it/s2ju1uqr14361",
+      "source": "reddit",
+      "score": 492,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My first post here.mp4",
+      "duration": 2,
+      "used": false,
+      "url": "https://v.redd.it/1asa4ynmh8361",
+      "source": "reddit",
+      "score": 38,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I spent far too long on this Borat meme.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/p9btt1smg8361",
+      "source": "reddit",
+      "score": 48,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My cat when it is dinner time..mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/bb45xp2ps8361",
+      "source": "reddit",
+      "score": 34,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bullying Your Teachers Memes.mp4",
+      "duration": 37,
+      "used": false,
+      "url": "https://v.redd.it/mze7i8jgja361",
+      "source": "reddit",
+      "score": 18,
+      "tags": []
+    },
+    {
+      "video_title": "test/final always say NO to Simps!.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/ifmal01qi8361",
+      "source": "reddit",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Be nice guys say hello to Franklin \ud83d\ude04.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/v7x6ygold6361",
+      "source": "reddit",
+      "score": 229,
+      "tags": []
+    },
+    {
+      "video_title": "test/final When I decided to watch Riverdale for the first time....mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/ed124b4y3e361",
+      "source": "reddit",
+      "score": 2,
+      "tags": []
+    },
+    {
+      "video_title": "test/final my friends are not very good at holdfast oc.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/afz1t7hqn9361",
+      "source": "reddit",
+      "score": 31,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Anime thighs but Adachi.mp4",
+      "duration": 20,
+      "used": false,
+      "url": "https://v.redd.it/m3geldfqdf361",
+      "source": "reddit",
+      "score": 1,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Lorax has work to do.mp4",
+      "duration": 17,
+      "used": false,
+      "url": "https://v.redd.it/1v5rc1j8n5361",
+      "source": "reddit",
+      "score": 423,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Swagger.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/yka2tvi7w6361",
+      "source": "reddit",
+      "score": 210,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Anime Dub.mp4",
+      "duration": 31,
+      "used": false,
+      "url": "https://v.redd.it/qzr9bv5ulb361",
+      "source": "reddit",
+      "score": 12,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The Big Man is Back.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/eze0luvew8361",
+      "source": "reddit",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "video_title": "test/final When sleepwalk comes on.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/hqp71czu7b361",
+      "source": "reddit",
+      "score": 17,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Fun Fact(colon) Your going to Jail.mp4",
+      "duration": 30,
+      "used": false,
+      "url": "https://v.redd.it/btu89th7ma361",
+      "source": "reddit",
+      "score": 25,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hey kids.mp4",
+      "duration": 2,
+      "used": false,
+      "url": "https://v.redd.it/co4e7wl6r6361",
+      "source": "reddit",
+      "score": 281,
+      "tags": []
+    },
+    {
+      "video_title": "test/final POV(colon) You are the entrance to the secret area..mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/zylwnl5ptb361",
+      "source": "reddit",
+      "score": 14,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Boom.mp4",
+      "duration": 57,
+      "used": false,
+      "url": "https://v.redd.it/n36rr0tytb361",
+      "source": "reddit",
+      "score": 11,
+      "tags": []
+    },
+    {
+      "video_title": "test/final ayoooo.mp4",
+      "duration": 35,
+      "used": false,
+      "url": "https://v.redd.it/zgealm6to8361",
+      "source": "reddit",
+      "score": 99,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Legos.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/cc9p50itu9361",
+      "source": "reddit",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Nobody touch me thermostat!.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/bs6bdp9ht6361",
+      "source": "reddit",
+      "score": 340,
+      "tags": []
+    },
+    {
+      "video_title": "test/final yes indeed.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/fbobj8xzm6361",
+      "source": "reddit",
+      "score": 449,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Yo this edible ain\u2019t shit-.mp4",
+      "duration": 11,
+      "used": false,
+      "url": "https://v.redd.it/ivhbif3wj3361",
+      "source": "reddit",
+      "score": 5098,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Slipknot - Nae Nigga Nae Nae.mp4",
+      "duration": 42,
+      "used": false,
+      "url": "https://v.redd.it/syoixijf3e361",
+      "source": "reddit",
+      "score": 5,
+      "tags": []
+    },
+    {
+      "video_title": "test/final when your keyboard is in the wrong mode.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/p8iuoosb78361",
+      "source": "reddit",
+      "score": 196,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Bobby's Advice.mp4",
+      "duration": 10,
+      "used": false,
+      "url": "https://v.redd.it/8b8fikbbje361",
+      "source": "reddit",
+      "score": 3,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Shqilanlla.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/rfdbl98ekb361",
+      "source": "reddit",
+      "score": 24,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ngl he got scared.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/r7dsgvsji8361",
+      "source": "reddit",
+      "score": 200,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Minecraft cringe moment.mp4",
+      "duration": 16,
+      "used": false,
+      "url": "https://v.redd.it/oeeqm54lc6361",
+      "source": "reddit",
+      "score": 911,
+      "tags": []
+    },
+    {
+      "video_title": "test/final He do be vibin' tho.mp4",
+      "duration": 41,
+      "used": false,
+      "url": "https://v.redd.it/iq6b0unbqf361",
+      "source": "reddit",
+      "score": 3,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Who did it.mp4",
+      "duration": 15,
+      "used": false,
+      "url": "https://v.redd.it/ntld0fi3ke361",
+      "source": "reddit",
+      "score": 9,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Sans..mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/hcs92eqim5361",
+      "source": "reddit",
+      "score": 2123,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Linus roasts you.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/3708a9x4zb361",
+      "source": "reddit",
+      "score": 39,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Cat goes Pop pop pop.mp4",
+      "duration": 27,
+      "used": false,
+      "url": "https://v.redd.it/cms2k72jd6361",
+      "source": "reddit",
+      "score": 1414,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The only thing they fear... Is giant baby man..mp4",
+      "duration": 14,
+      "used": false,
+      "url": "https://v.redd.it/yc1lsb0wx9361",
+      "source": "reddit",
+      "score": 160,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Happy Spasurday.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/j191dsfeeb361",
+      "source": "reddit",
+      "score": 67,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Two masal chai please.mp4",
+      "duration": 26,
+      "used": false,
+      "url": "https://v.redd.it/zi00zdgz8f361",
+      "source": "reddit",
+      "score": 6,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Cat vibin to Tunak Tunak Tun by Bilal G\u00f6regen.mp4",
+      "duration": 18,
+      "used": false,
+      "url": "https://v.redd.it/bzsjyy0no9361",
+      "source": "reddit",
+      "score": 206,
+      "tags": []
+    },
+    {
+      "video_title": "test/final His name is Reggie.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/lhd6w1aesc361",
+      "source": "reddit",
+      "score": 35,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Can't deny the theme was a hit..mp4",
+      "duration": 21,
+      "used": false,
+      "url": "https://v.redd.it/v6ac1okruf361",
+      "source": "reddit",
+      "score": 6,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Paimon.exe.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/ao2jg91j3b361",
+      "source": "reddit",
+      "score": 129,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Coolmathgames.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/van7hdqxpb361",
+      "source": "reddit",
+      "score": 95,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Christmas poggers \ud83c\udf84\ud83c\udf84.mp4",
+      "duration": 27,
+      "used": false,
+      "url": "https://v.redd.it/n0mrh4wlz8361",
+      "source": "reddit",
+      "score": 569,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My reaction to the upcoming DC comic.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/p971b4d3hf361",
+      "source": "reddit",
+      "score": 11,
+      "tags": []
+    },
+    {
+      "video_title": "test/final This is crack, raw cocaine.mp4",
+      "duration": 12,
+      "used": false,
+      "url": "https://v.redd.it/vf30thzdle361",
+      "source": "reddit",
+      "score": 20,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Ouchiee.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/sqb34v7nw6361",
+      "source": "reddit",
+      "score": 3636,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Mad rocket league trailer.mp4",
+      "duration": 9,
+      "used": false,
+      "url": "https://v.redd.it/51p8drgsmc361",
+      "source": "reddit",
+      "score": 84,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Next gen looking good.mp4",
+      "duration": 19,
+      "used": false,
+      "url": "https://v.redd.it/nsrmz2ai5e361",
+      "source": "reddit",
+      "score": 35,
+      "tags": []
+    },
+    {
+      "video_title": "test/final genshin impact in a nutshell.mp4",
+      "duration": 94,
+      "used": false,
+      "url": "https://v.redd.it/g8cpubie3f361",
+      "source": "reddit",
+      "score": 19,
+      "tags": []
+    },
+    {
+      "video_title": "test/final What a naughty naughty chain chomp.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/aj6irn5xce361",
+      "source": "reddit",
+      "score": 41,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Hee Hee man.mp4",
+      "duration": 89,
+      "used": false,
+      "url": "https://v.redd.it/6h13o9nadb361",
+      "source": "reddit",
+      "score": 455,
+      "tags": []
+    },
+    {
+      "video_title": "test/final My brain at 4 a.m.mp4",
+      "duration": 34,
+      "used": false,
+      "url": "https://v.redd.it/tmlo7v1q3e361",
+      "source": "reddit",
+      "score": 89,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Good classic TF2.mp4",
+      "duration": 4,
+      "used": false,
+      "url": "https://v.redd.it/buif8cwt6e361",
+      "source": "reddit",
+      "score": 122,
+      "tags": []
+    },
+    {
+      "video_title": "test/final ae.mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/8ikzj9w8ke361",
+      "source": "reddit",
+      "score": 198,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Two Dr. Peppers in and he give you this look.mp4",
+      "duration": 26,
+      "used": false,
+      "url": "https://v.redd.it/8luhd89gaa361",
+      "source": "reddit",
+      "score": 4728,
+      "tags": []
+    },
+    {
+      "video_title": "test/final I wasn't expecting that (also looking for sauce if anyone knows).mp4",
+      "duration": 6,
+      "used": false,
+      "url": "https://v.redd.it/lxp0nnbzad361",
+      "source": "reddit",
+      "score": 579,
+      "tags": []
+    },
+    {
+      "video_title": "test/final No Otis don't do it!.mp4",
+      "duration": 8,
+      "used": false,
+      "url": "https://v.redd.it/vp2kxsowtd361",
+      "source": "reddit",
+      "score": 445,
+      "tags": []
+    },
+    {
+      "video_title": "test/final The genders are on discord.mp4",
+      "duration": 29,
+      "used": false,
+      "url": "https://v.redd.it/lm3z1s9l8c361",
+      "source": "reddit",
+      "score": 1660,
+      "tags": []
+    },
+    {
+      "video_title": "test/final Searching for banna.mp4",
+      "duration": 13,
+      "used": false,
+      "url": "https://v.redd.it/3c0l3eahve361",
+      "source": "reddit",
+      "score": 540,
+      "tags": []
+    },
+    {
+      "video_title": "test/final POV (colon) you are a mosquito.mp4",
+      "duration": 5,
+      "used": false,
+      "url": "https://v.redd.it/nkg2pb1y4e361",
+      "source": "reddit",
+      "score": 1283,
+      "tags": []
+    },
+    {
+      "video_title": "meme storage/final Soup.mp4",
+      "duration": 4,
       "used": false
     },
     {
-      "video_title": "meme storage/final Ketchup.mp4",
-      "duration": 51,
-      "used": true
+      "video_title": "meme storage/final Yes I have a 150 dollar yoyo, Alexa how do I commit suici\ud83c\udd71\ufe0fe.mp4",
+      "duration": 4,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Guys, she's dead..mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Phineas has had enough.mp4",
+      "duration": 29,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Ok here you go.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Wait-.mp4",
+      "duration": 19,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final It's been so long....mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Simps be like.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Pick up the phone!!.mp4",
+      "duration": 35,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final My man got his pizza.mp4",
+      "duration": 7,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final The ONLY way this clip should be used.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final We failed men.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Go brainless.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Npesta Kenos reaction.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Invading Polska.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Oh no he stole his robux.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final One of our Gouramis gets a call. (Sound required).mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Hi and this is your daily dose of Internet.mp4",
+      "duration": 57,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final When you're told to warm up the turkey but you've never cooked before.mp4",
+      "duration": 8,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final D.mp4",
+      "duration": 3,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final When your friend have failed the exam and you think that you won't do the same.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Boi got skills.mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Step 1. Wait for it to rain.mp4",
+      "duration": 23,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final The ultimate Disney character.mp4",
+      "duration": 12,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Another one.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final My friend does a thing.mp4",
+      "duration": 8,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final stfu narc.mp4",
+      "duration": 17,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Stop screaming.mp4",
+      "duration": 8,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Oh yeah, rocket league!!!.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Everyone loves christmas..mp4",
+      "duration": 26,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final PAC your bags.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final I'm sorry for another pogchamp post.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Happy thanksgiving.mp4",
+      "duration": 29,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Minecraft on twitch..mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Porn plot twist.mp4",
+      "duration": 26,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Le Fishe.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Wanna sprite cranberry.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final POV(colon) You\u2019re a dixie boy watching the union roll into town.mp4",
+      "duration": 59,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Village of the Hidden Beef - Me vs My Meat.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Do the trash compactor.mp4",
+      "duration": 57,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Sonic is ass.mp4",
+      "duration": 3,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final You got a big bootay.mp4",
+      "duration": 7,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final You told him.mp4",
+      "duration": 8,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final The exaggerated suicide of a Black Teen.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Oh shit.mp4",
+      "duration": 26,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final US education system.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Firework.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Happy holidays.mp4",
+      "duration": 29,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final F.mp4",
+      "duration": 7,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Oh yeah.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final \u062a\u0634\u0646\u0628\u0631\u064a\u0631\u064a\u0633\u0648\u0647\u064a\u0627.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Made for kids! BY KIDS!.mp4",
+      "duration": 4,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Dont forget that I love you bro.mp4",
+      "duration": 52,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final We got \u2018em.mp4",
+      "duration": 8,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final CHICKEN POGCHAMP.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Step 4.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Just singing.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final P I S S.mp4",
+      "duration": 32,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Weiner.mp4",
+      "duration": 17,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final So happy.mp4",
+      "duration": 16,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final It is.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Hamboorger \ud83d\uddff.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final made by funky space rat on youtube.mp4",
+      "duration": 101,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Turn Back Time for Many years.mp4",
+      "duration": 18,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Monkey wet dreams.mp4",
+      "duration": 16,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Bugs Bunny is the rap god..mp4",
+      "duration": 29,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Lmao.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Vibing hard.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final They\u2019re coming through the roof!.mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final \ud83c\udfb6\ud83c\udfb6\ud83c\udfb6.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final We\u2019ve got to celebrate our differences!.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Honk honk.mp4",
+      "duration": 19,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final No I'm not sorry.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Hangout.mp4",
+      "duration": 33,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Beans.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final patrick hates that channel.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final NNN.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final C.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Post.mp4",
+      "duration": 22,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Nooo Linus.mp4",
+      "duration": 4,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Always look behind you.mp4",
+      "duration": 8,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final sad indeed \ud83d\ude14.mp4",
+      "duration": 20,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final First covid patient be like.mp4",
+      "duration": 29,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Well that was unfortunate.mp4",
+      "duration": 7,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final (colon)).mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Yamete.mp4",
+      "duration": 14,
+      "used": false
     },
     {
       "video_title": "meme storage/final Monke.mp4",
@@ -23,8 +4892,13 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final REEEEEEEE.mp4",
-      "duration": 9,
+      "video_title": "meme storage/final Ketchup.mp4",
+      "duration": 51,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Yee.mp4",
+      "duration": 28,
       "used": false
     },
     {
@@ -33,8 +4907,8 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final Yeah I gamer.mp4",
-      "duration": 78,
+      "video_title": "meme storage/final REEEEEEEE.mp4",
+      "duration": 9,
       "used": false
     },
     {
@@ -45,7 +4919,7 @@
     {
       "video_title": "meme storage/final Kangaroo.mp4",
       "duration": 14,
-      "used": true
+      "used": false
     },
     {
       "video_title": "meme storage/final When non English speakers listen to an English song...mp4",
@@ -53,19 +4927,14 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final wonder who it's from.mp4",
-      "duration": 14,
+      "video_title": "meme storage/final Yeah I gamer.mp4",
+      "duration": 78,
       "used": false
-    },
-    {
-      "video_title": "meme storage/final Donald kun.mp4",
-      "duration": 4,
-      "used": true
     },
     {
       "video_title": "meme storage/final I have nothing to Say bout this.mp4",
       "duration": 14,
-      "used": true
+      "used": false
     },
     {
       "video_title": "meme storage/final I know it turned you on.mp4",
@@ -73,13 +4942,8 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final Video with words on it.mp4",
-      "duration": 19,
-      "used": true
-    },
-    {
-      "video_title": "meme storage/final Discord moment.mp4",
-      "duration": 11,
+      "video_title": "meme storage/final Donald kun.mp4",
+      "duration": 4,
       "used": false
     },
     {
@@ -88,18 +4952,33 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final Ches.mp4",
-      "duration": 6,
-      "used": true
+      "video_title": "meme storage/final Discord moment.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Video with words on it.mp4",
+      "duration": 19,
+      "used": false
     },
     {
       "video_title": "meme storage/final Furry Go BRRRR.mp4",
       "duration": 13,
-      "used": true
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Ches.mp4",
+      "duration": 6,
+      "used": false
     },
     {
       "video_title": "meme storage/final Gypsy is Confused.mp4",
       "duration": 2,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Phil Collinz.mp4",
+      "duration": 12,
       "used": false
     },
     {
@@ -110,31 +4989,11 @@
     {
       "video_title": "meme storage/final Vibe.mp4",
       "duration": 17,
-      "used": true
-    },
-    {
-      "video_title": "meme storage/final I wish I had a PS5.mp4",
-      "duration": 19,
-      "used": true
+      "used": false
     },
     {
       "video_title": "meme storage/final Gottem.mp4",
       "duration": 17,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final Oh no!.mp4",
-      "duration": 13,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final They're groovin'.mp4",
-      "duration": 36,
-      "used": true
-    },
-    {
-      "video_title": "meme storage/final Continuing the search....mp4",
-      "duration": 5,
       "used": false
     },
     {
@@ -143,23 +5002,18 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final Snek.mp4",
-      "duration": 14,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final Me wearing all black with glasses, my earphones:.mp4",
-      "duration": 113,
+      "video_title": "meme storage/final They're groovin'.mp4",
+      "duration": 36,
       "used": false
     },
     {
       "video_title": "meme storage/final charles.mp4",
       "duration": 64,
-      "used": true
+      "used": false
     },
     {
-      "video_title": "meme storage/final Slavery.mp4",
-      "duration": 7,
+      "video_title": "meme storage/final Oh no!.mp4",
+      "duration": 13,
       "used": false
     },
     {
@@ -173,18 +5027,23 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final Demoknight TF2.mp4",
-      "duration": 91,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final I don't know.mp4",
-      "duration": 21,
-      "used": false
-    },
-    {
       "video_title": "meme storage/final Bet.mp4",
       "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final \ud83e\udd1a.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Snek.mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Demoknight TF2.mp4",
+      "duration": 91,
       "used": false
     },
     {
@@ -193,44 +5052,24 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final And they said chivarly was dead....mp4",
-      "duration": 13,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final CEO of Brazil.mp4",
-      "duration": 7,
-      "used": true
-    },
-    {
-      "video_title": "meme storage/final \ud83e\udd1a.mp4",
-      "duration": 15,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final Kirby hath come.mp4",
-      "duration": 14,
-      "used": false
-    },
-    {
       "video_title": "meme storage/final No tile need.mp4",
       "duration": 6,
       "used": false
     },
     {
-      "video_title": "meme storage/final Headass.mp4",
-      "duration": 6,
+      "video_title": "meme storage/final Sorry but your sad story won't work here.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Me wearing all black with glasses, my earphones(colon).mp4",
+      "duration": 113,
       "used": false
     },
     {
       "video_title": "meme storage/final Its Still NNN.mp4",
       "duration": 43,
       "used": false
-    },
-    {
-      "video_title": "meme storage/final Sorry but your sad story won't work here.mp4",
-      "duration": 9,
-      "used": true
     },
     {
       "video_title": "meme storage/final Ugh, fine, I guess I had to make this meme.mp4",
@@ -243,33 +5082,23 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final So annoying.mp4",
-      "duration": 7,
-      "used": true
-    },
-    {
-      "video_title": "meme storage/final Oh yeah!.mp4",
-      "duration": 17,
+      "video_title": "meme storage/final Continuing the search....mp4",
+      "duration": 5,
       "used": false
     },
     {
-      "video_title": "meme storage/final Mr.monkey!!.mp4",
-      "duration": 13,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final Never forget your roots.mp4",
-      "duration": 10,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final Ngl this is definitely me.mp4",
-      "duration": 23,
+      "video_title": "meme storage/final Kirby hath come.mp4",
+      "duration": 14,
       "used": false
     },
     {
       "video_title": "meme storage/final Twack.mp4",
       "duration": 17,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Ngl this is definitely me.mp4",
+      "duration": 23,
       "used": false
     },
     {
@@ -283,18 +5112,18 @@
       "used": false
     },
     {
+      "video_title": "meme storage/final Never forget your roots.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
       "video_title": "meme storage/final Oui oui.mp4",
       "duration": 6,
       "used": false
     },
     {
-      "video_title": "meme storage/final A.mp4",
-      "duration": 3,
-      "used": false
-    },
-    {
-      "video_title": "meme storage/final Got shown this in discord.mp4",
-      "duration": 19,
+      "video_title": "meme storage/final So annoying.mp4",
+      "duration": 7,
       "used": false
     },
     {
@@ -303,8 +5132,238 @@
       "used": false
     },
     {
+      "video_title": "meme storage/final Headass.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Cringe Meme.mp4",
+      "duration": 17,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final A.mp4",
+      "duration": 3,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Slavery.mp4",
+      "duration": 7,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Got shown this in discord.mp4",
+      "duration": 19,
+      "used": false
+    },
+    {
       "video_title": "meme storage/final People are dumb.mp4",
       "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Mr.monkey!!.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Come here redditor.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final FLOPPA FLIP.mp4",
+      "duration": 12,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Pinky and the Thot.mp4",
+      "duration": 18,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final \u0152\u00f2\u00e4d\u0161\u00eb.mp4",
+      "duration": 7,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Is MayOnAise an InStRument.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Sorry of the editing is bad,i tried my best.mp4",
+      "duration": 23,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Hello weary traveler.mp4",
+      "duration": 55,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final What the Fuck.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final The power of editing.mp4",
+      "duration": 12,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final He definitely built different.mp4",
+      "duration": 53,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Trumpet.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Why am i still awake.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Men.mp4",
+      "duration": 17,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final nothing else needs to be said.mp4",
+      "duration": 21,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final can't believe he would do this.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final You are not my son.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final MORON.mp4",
+      "duration": 16,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Let it rip!.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Pog Fiction.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final UwU.mp4",
+      "duration": 3,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final We all know that's a lie.mp4",
+      "duration": 28,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Dank revenge of the sith.mp4",
+      "duration": 20,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final NNN it's over but here starts No Demon December..mp4",
+      "duration": 38,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Getting caught.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final .....(colon)(colon)(colon).mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final The irony is unreal.mp4",
+      "duration": 33,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final His pants are on fire.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final They're groovin.mp4",
+      "duration": 28,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final \u00c7R\u00fc\u00dfh.mp4",
+      "duration": 30,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Unashamedly stolen from discord.mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Zaheer Enters The Oil.mp4",
+      "duration": 28,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Vroom Vroom.mp4",
+      "duration": 40,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Im high af bro.mp4",
+      "duration": 55,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final I wish I had a PS5.mp4",
+      "duration": 19,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Run monk\u00e9 run.mp4",
+      "duration": 19,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final When you're watching your favourite show and the soundtrack is on point..mp4",
+      "duration": 33,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Stronger than you.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final So sad....mp4",
+      "duration": 28,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final I hate you!.mp4",
+      "duration": 46,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Picture shown is actual size.mp4",
+      "duration": 8,
       "used": false
     },
     {
@@ -313,18 +5372,358 @@
       "used": false
     },
     {
-      "video_title": "meme storage/final So sad....mp4",
-      "duration": 28,
-      "used": true
+      "video_title": "meme storage/final Oh yeah!.mp4",
+      "duration": 17,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Cat got pipes.mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Yup, that\u2019s Nate Robinson..mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final nothing but a monkey spining on soulja boy.mp4",
+      "duration": 31,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Found on discord.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final because fuck pianos.mp4",
+      "duration": 3,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Stand Proud.mp4",
+      "duration": 16,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Let me feed you my child.mp4",
+      "duration": 29,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Let Me Shit For You.mp4",
+      "duration": 18,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final An interesting title.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Corey Taylor.mp4",
+      "duration": 34,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Swagger.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final YOU CAN'T RUN FOR LONG.mp4",
+      "duration": 25,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final ice on my wrist like a ghost skating.mp4",
+      "duration": 19,
+      "used": false
     },
     {
       "video_title": "meme storage/final Fun.mp4",
       "duration": 11,
-      "used": true
+      "used": false
     },
     {
-      "video_title": "meme storage/final Come here redditor.mp4",
+      "video_title": "meme storage/final Don't let this flop boys.mp4",
       "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Beyblade is awesome and you can't change my mind.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final It\u2019s a beautiful day outside.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final A PC on PCP.mp4",
+      "duration": 7,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Sonics funeral tomorrow at 3 PM.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Title.mp4",
+      "duration": 12,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final NUMBA 4.mp4",
+      "duration": 8,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Super Mario.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final filaciaga.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final He do be vibin doe.mp4",
+      "duration": 28,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Orbit vs Security Guard.mp4",
+      "duration": 85,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final This how it be when your homies leave.mp4",
+      "duration": 28,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final OH LAWD HE COMIN.mp4",
+      "duration": 12,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final (colon)0 u can\u2019t call people it!.mp4",
+      "duration": 5,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Dada Milky yummmm.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final at least he has one.mp4",
+      "duration": 4,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Online classes are real fun.mp4",
+      "duration": 28,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Can\u2019t fucking wait.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Girls are scary.mp4",
+      "duration": 4,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final A thousand blessings to you and your family this winter. The crop yield shall be bountiful inshallah.mp4",
+      "duration": 29,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final cereal.mp4",
+      "duration": 60,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Because I'm happyyy.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final You see Batman.mp4",
+      "duration": 34,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Everyone whisper.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final I get what I fucking deserve!.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Silence witch.com.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final It is all fake.mp4",
+      "duration": 20,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final carlos.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final What did I make.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final How ironic.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final snifff \u201cooohhh your a stinky guy\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f\u201d.mp4",
+      "duration": 12,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final BONK.mp4",
+      "duration": 2,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Demoman.mp4",
+      "duration": 15,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Rip uncle Phil.mp4",
+      "duration": 12,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Begone thot!.mp4",
+      "duration": 24,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Nuha....mp4",
+      "duration": 37,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final The different types of Mario\u2019s.mp4",
+      "duration": 49,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Uh oh.mp4",
+      "duration": 21,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final France is just a big Minecraft server.mp4",
+      "duration": 14,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Brolly is cancelled.mp4",
+      "duration": 17,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final H I G H E R.mp4",
+      "duration": 27,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final K9,keeper of the green room.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final He do be turning around before falling tho.mp4",
+      "duration": 6,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Pop pop pop pop pop pop pop pop.mp4",
+      "duration": 18,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Obama gaming.mp4",
+      "duration": 10,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final \ud83d\udc41\ud83d\udc44\ud83d\udc41.mp4",
+      "duration": 22,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final girls.mp4",
+      "duration": 19,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Gypsycrusader.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Aah yes awkwardness, my old friend.mp4",
+      "duration": 18,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final NaZis \ud83d\ude08.mp4",
+      "duration": 9,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final The cartels have gone to far this time.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Bye bye, Cookie man.mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final I stole this.mp4",
+      "duration": 13,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Tesla can soon connect to other Tesla drivers via Bluetooth (Warning(colon) Strong language from MW2 lobby).mp4",
+      "duration": 62,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final I'll take my leave then....mp4",
+      "duration": 11,
+      "used": false
+    },
+    {
+      "video_title": "meme storage/final Army Issue Equipment.mp4",
+      "duration": 40,
       "used": false
     }
   ]
