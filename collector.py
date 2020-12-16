@@ -10,7 +10,7 @@ import praw
 def get_reddit_videos(subreddit, count, folder):
     r = praw.Reddit(client_id="Oez4fMric1z1uQ", client_secret="3-IOEjlgneiGBeNT02yeZ3TDLL1asw", user_agent="idk")
     counter = 0
-    sub = r.subreddit(subreddit).hot(limit=count*4)
+    sub = r.subreddit(subreddit).hot(limit=count*10)
     temp_dict = []
     titles=[]
     times=[]
@@ -31,10 +31,9 @@ def get_reddit_videos(subreddit, count, folder):
             print(f'{folder}{post.title}.mp4')
             try:
                 beginning = time.perf_counter()
-                if ":" in post.title:
-                    title = post.title.replace(":", "(colon)")
-                else:
-                    title = post.title
+
+                title = post.title.replace(":", "_colon_")
+                title = title.replace("?", "")
                 urllib.request.urlretrieve(vid_link, f'{folder}{title}.mp4')
                 urllib.request.urlretrieve(audio_link, f'{folder}{title}.mp3')
                 vid = VideoFileClip(f'{folder}{title}.mp4')
@@ -71,3 +70,4 @@ def get_reddit_videos(subreddit, count, folder):
     with open("videos.json", "w") as json_f:
         json.dump(data, json_f, indent=2)
 
+#get_reddit_videos("dankvideos", 100,"meme storage")

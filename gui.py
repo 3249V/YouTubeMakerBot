@@ -4,8 +4,14 @@ import collector
 import threading
 import time
 import main
+from client_config import ClientConfig
+from pyupdater.client import Client
 
-
+def print_status_info(info):
+    total = info.get(u'total')
+    downloaded = info.get(u'downloaded')
+    status = info.get(u'status')
+    print (downloaded, total, status)
 class Application(tk.Frame):
     def __init__(self, master=None):
         super().__init__(master)
